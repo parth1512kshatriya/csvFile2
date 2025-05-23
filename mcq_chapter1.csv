@@ -1,0 +1,99 @@
+"Which of the following numbers is a rational number?" , 3.5, √2, -2/7, π , {3}, A rational number is any number that can be expressed in the form p/q, where p and q are integers and q ≠ 0.
+
+"Which set is closed under addition, subtraction, and multiplication but not division?" , Whole numbers, Integers, Rational numbers, Natural numbers , {2}, Integers are closed under addition, subtraction, and multiplication but not division.
+
+"What is the additive identity for rational numbers?" , 0, 1, -1, None , {1}, Adding 0 to any rational number gives the same number, making 0 the additive identity.
+
+"What is the result of multiplying any rational number with 1?" , 0, 1, The same number, Its reciprocal , {3}, 1 is the multiplicative identity for rational numbers.
+
+"Which of the following operations is not closed in the set of whole numbers?" , Addition, Subtraction, Multiplication, All are closed , {2}, Whole numbers are not closed under subtraction.
+
+"Which operation is not commutative for rational numbers?" , Addition, Subtraction, Multiplication, None , {2}, Subtraction is not commutative for rational numbers.
+
+"What is the result of dividing a rational number by zero?" , The same number, Zero, Not defined, Infinity , {3}, Division by zero is undefined.
+
+"Which of the following is NOT a rational number?" , -5, 7/9, √3, 0 , {3}, √3 is an irrational number.
+
+"Which property is shown by a + b = b + a for rational numbers?" , Closure, Commutativity, Associativity, Distributivity , {2}, This is the property of commutativity.
+
+"Which operation is associative for rational numbers?" , Addition, Subtraction, Division, None , {1}, Addition is associative for rational numbers.
+
+"Which property does (a + b) + c = a + (b + c) represent?" , Closure, Commutativity, Associativity, Distributivity , {3}, This is the associative property.
+
+"What is the value of 2/3 + 4/5?" , 22/15, 16/15, 10/15, 8/15 , {2}, LCM of 3 and 5 is 15; 10/15 + 12/15 = 22/15.
+
+"What is the product of (-2/3) × (3/4)?" , -6/12, 6/12, -6/7, -2 , {1}, Multiply numerators and denominators: -6/12.
+
+"Which set is closed under all four operations except division by zero?" , Natural numbers, Whole numbers, Rational numbers, Integers , {3}, Rational numbers are closed under all operations except division by zero.
+
+"Which of the following is true about rational numbers under subtraction?" , Closed and associative, Not closed, Closed and not associative, Not closed and not associative , {3}, Subtraction is closed but not associative.
+
+"What is the result of (-3/5) + (3/5)?" , 0, -6/5, 6/5, 1 , {1}, Additive inverse yields 0.
+
+"Which property is shown by a(b + c) = ab + ac?" , Associative, Commutative, Distributive, Identity , {3}, This is the distributive property.
+
+"Which of the following is the multiplicative identity for rational numbers?" , 0, 1, -1, None , {2}, Multiplying by 1 gives the same number.
+
+"The difference of two rational numbers is always a" , Natural number, Whole number, Rational number, Irrational number , {3}, Rational numbers are closed under subtraction.
+
+"What is the reciprocal of -2/3?" , 2/3, -3/2, -2/3, 3/2 , {2}, Reciprocal is obtained by flipping numerator and denominator and keeping the sign.
+
+"Which property helps us rearrange multiplication as (a × b) × c = a × (b × c)?" , Commutativity, Associativity, Distributivity, Identity , {2}, Associativity allows regrouping.
+
+"What is the result of (2/5) + (-2/5)?" , 0, 4/5, -4/5, 1 , {1}, Sum of additive inverses is 0.
+
+"Which of these is a rational number?" , π, √2, -7, √5 , {3}, -7 can be written as -7/1.
+
+"Which operation is not associative for rational numbers?" , Addition, Multiplication, Subtraction, All are associative , {3}, Subtraction is not associative.
+
+"Which is not true for rational numbers?" , They are closed under addition, They are closed under subtraction, They are closed under division by 0, They are closed under multiplication , {3}, Division by 0 is not defined.
+
+"What is the sum of 1/2 and 1/3?" , 3/5, 5/6, 2/5, 4/5 , {2}, LCM = 6; 3/6 + 2/6 = 5/6.
+
+"Which operation does NOT follow the commutative property in rational numbers?" , Addition, Multiplication, Division, All follow , {3}, Division is not commutative.
+
+"What is (-3/4) ÷ (1/2)?" , -3/2, 3/2, -1/2, -3/8 , {1}, Multiply by reciprocal: (-3/4) × (2/1) = -3/2.
+
+"What is 2/7 × 0?" , 2/7, 0, 1, Undefined , {2}, Any number multiplied by 0 is 0.
+
+"Which property does 3/4 × 1 = 3/4 show?" , Identity, Commutative, Associative, Distributive , {1}, Multiplicative identity.
+
+"Which of the following is not closed under subtraction?" , Natural numbers, Integers, Rational numbers, None , {1}, Subtracting natural numbers may not result in a natural number.
+
+"What is the LCM of 4 and 5 used in rational number addition?" , 9, 10, 20, 1 , {2}, LCM of 4 and 5 is 20.
+
+"Which expression shows distributivity of multiplication over addition?" , a + (b + c), a(b + c) = ab + ac, ab = ba, (a + b) + c = a + (b + c) , {2}, This is the distributive property.
+
+"Which is not a rational number?" , 0, -5, 2/3, √7 , {4}, √7 is irrational.
+
+"The number 1 acts as the ___ identity in rational numbers." , Additive, Multiplicative, Subtractive, None , {2}, 1 is the multiplicative identity.
+
+"What is (3/4) × (4/3)?" , 1, 0, 3/4, 4/3 , {1}, Multiplying reciprocals gives 1.
+
+"What is the additive inverse of 5/8?" , -5/8, 8/5, 0, 5/8 , {1}, Additive inverse of a number x is -x.
+
+"Which of the following rational numbers is smallest?" , -1/2, 0, 1/2, -3/4 , {4}, -3/4 is the smallest among the options.
+
+"Which of these is a correct rational addition?" , 1/2 + 1/3 = 2/5, 1/2 + 1/2 = 1, 2/3 + 1/3 = 2/3, 3/4 + 1/2 = 1 , {2}, 1/2 + 1/2 = 1.
+
+"Which pair shows commutativity?" , 5 – 3 = 3 – 5, 2 + 3 = 3 + 2, 2 × 3 = 3 – 2, 4 ÷ 2 = 2 ÷ 4 , {2}, Only addition is commutative here.
+
+"What is the result of (3/5) × (0)?" , 3/5, 0, 1, Undefined , {2}, Anything multiplied by 0 is 0.
+
+"Which of the following demonstrates distributivity?" , 2 + 3 = 5, 2 × (3 + 4) = 2×3 + 2×4, 3 – 2 = 1, 5 ÷ 1 = 5 , {2}, Distributive property example.
+
+"Which is a correct associative expression?" , (2 + 3) + 4 = 2 + (3 + 4), (3 – 2) – 1 = 3 – (2 – 1), (2 × 3) ÷ 4 = 2 × (3 ÷ 4), (4 ÷ 2) ÷ 1 = 4 ÷ (2 ÷ 1) , {1}, Only addition is associative here.
+
+"What is the mean of 2/3 and 1/3?" , 1/3, 2/3, 1/2, 3/2 , {3}, (2/3 + 1/3) ÷ 2 = 3/3 ÷ 2 = 1 ÷ 2 = 1/2.
+
+"How many rational numbers are between 1/3 and 2/3?" , 0, 1, 2, Infinite , {4}, Rational numbers are infinite between any two.
+
+"What is 5/6 – 1/3?" , 1/2, 1/6, 2/3, 5/9 , {1}, LCM is 6; 5/6 – 2/6 = 3/6 = 1/2.
+
+"What is the value of (–1/2) × (2/3)?" , –1/3, 1/3, –2/6, –2/3 , {1}, Multiply numerators and denominators.
+
+"Which is true about rational number 0?" , Multiplicative identity, Additive identity, Not a rational number, Negative number , {2}, 0 is additive identity.
+
+"Which operation does not change the rational number?" , Add 1, Subtract 1, Multiply by 0, Multiply by 1 , {4}, Multiplying by 1 retains the value.
+
+"Which operation on rational numbers is both commutative and associative?" , Division, Subtraction, Multiplication, None , {3}, Multiplication is both commutative and associative.
